@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/SpaceExploration.html"
+status = 200
